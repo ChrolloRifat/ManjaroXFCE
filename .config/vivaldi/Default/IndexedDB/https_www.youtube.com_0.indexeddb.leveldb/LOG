@@ -1,0 +1,6 @@
+2021/10/24-19:54:19.468 80ea Reusing MANIFEST /home/rif/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/24-19:54:19.468 80ea Recovering log #51
+2021/10/24-19:54:20.120 80ea Reusing old log /home/rif/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000051.log 
+2021/10/24-19:54:39.048 80da Level-0 table #56: started
+2021/10/24-19:54:39.130 80da Level-0 table #56: 1030469 bytes OK
+2021/10/24-19:54:39.172 80da Delete type=0 #51

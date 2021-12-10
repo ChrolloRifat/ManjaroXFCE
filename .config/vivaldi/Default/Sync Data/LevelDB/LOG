@@ -1,0 +1,6 @@
+2021/10/24-19:11:56.258 257a Reusing MANIFEST /home/rif/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/10/24-19:11:56.258 257a Recovering log #22
+2021/10/24-19:11:56.259 257a Reusing old log /home/rif/.config/vivaldi/Default/Sync Data/LevelDB/000022.log 
+2021/10/24-19:20:03.492 4218 Level-0 table #26: started
+2021/10/24-19:20:03.555 4218 Level-0 table #26: 451845 bytes OK
+2021/10/24-19:20:03.614 4218 Delete type=0 #22

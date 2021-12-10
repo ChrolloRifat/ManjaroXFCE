@@ -1,0 +1,29 @@
+[Default Applications]
+application/octet-stream=mousepad.desktop
+application/pdf=qpdfview.desktop
+application/pdf=qpdfview.desktop
+application/x-gettext-translation=mousepad.desktop
+application/xml=mousepad.desktop
+application/x-wine-extension-ini=mousepad.desktop
+image/gif=viewnior.desktop;gimp.desktop
+image/gif=viewnior.desktop;gimp.desktop
+image/jpeg=viewnior.desktop;gimp.desktop
+image/png=shotwell-viewer.desktop
+text/plain=mousepad.desktop
+video/mp4=mpv.desktop
+video/ogg=vlc.desktop
+video/x-flv=vlc.desktop
+video/x-ms-wmv=vlc.desktop
+video/x-ogm+ogg=vlc.desktop
+video/x-theora+ogg=vlc.desktop
+video/x-matroska=mpv.desktop
+
+[Added Associations]
+video/mp4=mpv.desktop;
+video/x-matroska=mpv.desktop;
+font/otf=org.gnome.FontViewer.desktop;viewnior.desktop;
+text/css=mousepad.desktop;mousepad-settings.desktop;
+text/plain=geany.desktop;mpv.desktop;
+application/octet-stream=mpv.desktop;
+application/x-desktop=geany.desktop;
+image/png=shotwell-viewer.desktop;

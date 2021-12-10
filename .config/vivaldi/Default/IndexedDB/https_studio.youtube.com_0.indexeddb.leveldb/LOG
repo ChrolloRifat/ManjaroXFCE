@@ -1,0 +1,15 @@
+2021/10/24-19:12:28.023 25a3 Reusing MANIFEST /home/rif/.config/vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/24-19:12:28.023 25a3 Recovering log #4
+2021/10/24-19:12:28.063 25a3 Reusing old log /home/rif/.config/vivaldi/Default/IndexedDB/https_studio.youtube.com_0.indexeddb.leveldb/000004.log 
+2021/10/24-19:54:21.516 80bc Level-0 table #8: started
+2021/10/24-19:54:21.695 80bc Level-0 table #8: 5749 bytes OK
+2021/10/24-19:54:21.752 80bc Delete type=0 #4
+2021/10/24-19:54:21.764 80bc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/10/24-19:54:21.764 80bc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x02\x1f\x03\x00@q\xe8&\xcbwB\x00\x017\x00i\x00n\x00n\x00e\x00r\x00t\x00u\x00b\x00e\x00_\x00s\x00t\x00u\x00d\x00i\x00o\x00:\x005\x00E\x001\x009\x00E\x002\x00D\x00A\x00-\x005\x003\x002\x006\x00-\x004\x00C\x004\x005\x00-\x00B\x00F\x000\x007\x00-\x002\x00A\x00A\x00B\x00A\x004\x00E\x002\x006\x003\x009\x006\x00:\x000' @ 443 : 1
+2021/10/24-19:54:21.764 80bc Compacting 1@1 + 1@2 files
+2021/10/24-19:54:21.854 80bc Generated table #9@1: 55 keys, 1334 bytes
+2021/10/24-19:54:21.854 80bc Compacted 1@1 + 1@2 files => 1334 bytes
+2021/10/24-19:54:21.952 80bc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/24-19:54:21.952 80bc Delete type=2 #5
+2021/10/24-19:54:21.952 80bc Delete type=2 #8
+2021/10/24-19:54:21.962 80bc Manual compaction at level-1 from '\x00\x02\x02\x1f\x03\x00@q\xe8&\xcbwB\x00\x017\x00i\x00n\x00n\x00e\x00r\x00t\x00u\x00b\x00e\x00_\x00s\x00t\x00u\x00d\x00i\x00o\x00:\x005\x00E\x001\x009\x00E\x002\x00D\x00A\x00-\x005\x003\x002\x006\x00-\x004\x00C\x004\x005\x00-\x00B\x00F\x000\x007\x00-\x002\x00A\x00A\x00B\x00A\x004\x00E\x002\x006\x003\x009\x006\x00:\x000' @ 443 : 1 .. (end); will stop at (end)

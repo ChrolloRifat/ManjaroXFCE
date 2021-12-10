@@ -1,0 +1,14 @@
+2021/10/22-22:11:14.535 1eb6b Reusing MANIFEST /home/rif/.config/vivaldi/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/22-22:11:14.535 1eb6b Recovering log #7
+2021/10/22-22:11:14.629 1eb6b Reusing old log /home/rif/.config/vivaldi/Default/IndexedDB/https_anilist.co_0.indexeddb.leveldb/000007.log 
+2021/10/22-22:11:14.927 1eb07 Level-0 table #12: started
+2021/10/22-22:11:15.047 1eb07 Level-0 table #12: 67774 bytes OK
+2021/10/22-22:11:15.113 1eb07 Delete type=0 #7
+2021/10/22-22:11:15.126 1eb07 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/10/22-22:11:15.126 1eb07 Manual compaction at level-1 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x00\x00\x05' @ 2092 : 1
+2021/10/22-22:11:15.126 1eb07 Compacting 1@1 + 1@2 files
+2021/10/22-22:11:15.175 1eb07 Generated table #13@1: 13 keys, 417 bytes
+2021/10/22-22:11:15.175 1eb07 Compacted 1@1 + 1@2 files => 417 bytes
+2021/10/22-22:11:15.213 1eb07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/10/22-22:11:15.213 1eb07 Delete type=2 #12
+2021/10/22-22:11:15.213 1eb07 Manual compaction at level-1 from '\x00\x02\x00\x00\x05' @ 2092 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

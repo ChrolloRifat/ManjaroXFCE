@@ -1,0 +1,689 @@
+{
+   "checksum": "86e3b9e04d67b1899c6bb368551a9c3c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13247926743556189",
+            "guid": "439ee05d-234e-4c02-ada8-3d2474c89af2",
+            "id": "5",
+            "name": "IELTS Online Exam Preparation | IELTS Sample Questions",
+            "type": "url",
+            "url": "https://www.ielts-mentor.com/"
+         }, {
+            "date_added": "13268451658490424",
+            "guid": "46502d08-d521-4363-a6d2-fe00ea1d5959",
+            "id": "6",
+            "name": "How to Read Japanese - Team Japanese",
+            "type": "url",
+            "url": "https://teamjapanese.com/how-to-read-japanese/"
+         }, {
+            "date_added": "13268817308034693",
+            "guid": "52496ae9-a9ae-44b0-b39a-9b7becb9ea37",
+            "id": "7",
+            "name": "How to Install Deepin Desktop on Ubuntu 20.04 LTS - It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/install-deepin-ubuntu/"
+         }, {
+            "date_added": "13269723311675328",
+            "guid": "8a5eec5d-a343-4567-a508-a56e80924b98",
+            "id": "8",
+            "name": "[Solved] error: no such partition grub rescue in Ubuntu Linux",
+            "type": "url",
+            "url": "https://itsfoss.com/solve-error-partition-grub-rescue-ubuntu-linux/"
+         }, {
+            "date_added": "13269723375054936",
+            "guid": "ce98756c-4c1c-41ae-8253-ad1cebc1d834",
+            "id": "9",
+            "name": "Fix Minimal BASH like line editing is supported GRUB Error In Linux - It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/fix-minimal-bash-line-editing-supported-grub-error-linux/"
+         }, {
+            "children": [ {
+               "date_added": "13271240986266167",
+               "guid": "a1927016-1a5d-4bab-8539-2d6ffbb68353",
+               "id": "11",
+               "name": "(1) index/startersguide - LearnJapanese",
+               "type": "url",
+               "url": "https://www.reddit.com/r/LearnJapanese/wiki/index/startersguide#wiki_what_is_japanese.3F"
+            }, {
+               "date_added": "13271241831492785",
+               "guid": "e9d5d6f3-1a20-4e93-8349-002a89b56dbf",
+               "id": "12",
+               "name": "About – Learn Japanese",
+               "type": "url",
+               "url": "http://www.guidetojapanese.org/learn/complete/"
+            }, {
+               "date_added": "13271241838663103",
+               "guid": "927bbb04-d9e9-4b64-a888-4e493c0b7a0b",
+               "id": "13",
+               "name": "An introduction to Japanese",
+               "type": "url",
+               "url": "https://pomax.github.io/nrGrammar/"
+            }, {
+               "date_added": "13271241842551653",
+               "guid": "58432cbc-55af-48d4-b180-2db0affeed0b",
+               "id": "14",
+               "name": "Welcome to IMABI!",
+               "type": "url",
+               "url": "https://imabi.net/"
+            }, {
+               "date_added": "13271241953491685",
+               "guid": "dba2b41d-a489-41e5-9495-4ff224ea3e18",
+               "id": "15",
+               "name": "(1) index/resources - LearnJapanese",
+               "type": "url",
+               "url": "https://www.reddit.com/r/LearnJapanese/wiki/index/resources"
+            }, {
+               "date_added": "13271242218146600",
+               "guid": "9892d476-35dd-4553-b8dc-00cee4478827",
+               "id": "16",
+               "name": "(1) index/faq - LearnJapanese",
+               "type": "url",
+               "url": "https://www.reddit.com/r/LearnJapanese/wiki/index/faq"
+            }, {
+               "date_added": "13271243224356420",
+               "guid": "26994c59-8d9b-4814-a416-658110e6b94b",
+               "id": "17",
+               "name": "(1) index/resources - LearnJapanese",
+               "type": "url",
+               "url": "https://www.reddit.com/r/LearnJapanese/wiki/index/resources#wiki_apps"
+            }, {
+               "date_added": "13271243478737157",
+               "guid": "570b1e52-f0c3-4976-a8bf-21cccd30777a",
+               "id": "18",
+               "name": "(1) A Year to Learn Japanese: Reflections on five years of progress and how I would re-approach year one, in incredible detail. : LearnJapanese",
+               "type": "url",
+               "url": "https://www.reddit.com/r/LearnJapanese/comments/fohull/a_year_to_learn_japanese_reflections_on_five/"
+            }, {
+               "date_added": "13271243764942046",
+               "guid": "baee2d80-7fac-4bee-afbe-635fb2cff66b",
+               "id": "19",
+               "name": "WaniKani / Lessons",
+               "type": "url",
+               "url": "https://www.wanikani.com/lesson/session"
+            }, {
+               "date_added": "13271411636490859",
+               "guid": "0ee6574d-61ec-40b1-936a-b760eb92a363",
+               "id": "20",
+               "name": "Learn Japanese: A Ridiculously Detailed Guide",
+               "type": "url",
+               "url": "https://www.tofugu.com/learn-japanese/"
+            }, {
+               "date_added": "13272212842715867",
+               "guid": "d4c39ea7-d0e7-4ef2-a567-439c19ee33b5",
+               "id": "21",
+               "name": "Practice Hiragana & Katakana",
+               "type": "url",
+               "url": "https://kana-quiz.tofugu.com/"
+            }, {
+               "date_added": "13272213344913925",
+               "guid": "9c9262db-6916-4f06-a22b-79a24817cded",
+               "id": "22",
+               "name": "Japanese Reading Practice For Beginners",
+               "type": "url",
+               "url": "https://www.tofugu.com/japanese/japanese-reading-practice-for-beginners/"
+            }, {
+               "date_added": "13277238740650923",
+               "guid": "c32f3d37-66ec-47c9-978d-fd60e65d2ccf",
+               "id": "99",
+               "name": "anki guide",
+               "type": "url",
+               "url": "https://itazuraneko.neocities.org/learn/anki.html"
+            }, {
+               "date_added": "13277392402297538",
+               "guid": "6018fb0d-b505-4479-b130-1d605f665eec",
+               "id": "101",
+               "name": "main Japanese guide",
+               "type": "url",
+               "url": "https://itazuraneko.neocities.org/learn/guide.html#Learning%20Japanese"
+            } ],
+            "date_added": "13271241016993200",
+            "date_modified": "13277392402297538",
+            "guid": "15cb36db-32f0-45ca-b566-09506211d70b",
+            "id": "10",
+            "name": "Guide to learning Japanese",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272894963831312",
+               "guid": "b29dc183-25c9-4483-8abb-ede2862295d5",
+               "id": "24",
+               "name": "Preparation for IELTS Exam - Preparing for IELTS",
+               "type": "url",
+               "url": "https://www.english-exam.org/IELTS/preparing/"
+            }, {
+               "date_added": "13272895081362787",
+               "guid": "1202a583-174b-4c88-8d23-273db0477dfd",
+               "id": "25",
+               "name": "Prepare for IELTS | Take IELTS",
+               "type": "url",
+               "url": "https://takeielts.britishcouncil.org/take-ielts/prepare"
+            } ],
+            "date_added": "13272895018716773",
+            "date_modified": "13272895081362787",
+            "guid": "4e5c71e5-d83e-4f6b-a712-cdd117f496c0",
+            "id": "23",
+            "name": "Guide to IELTS",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13274164511108698",
+               "guid": "bfab4c25-10fa-4225-aabd-b8b8daade515",
+               "id": "27",
+               "name": "[Xmonad] you-have-no-idea-what's-possible edition : unixporn",
+               "type": "url",
+               "url": "https://www.reddit.com/r/unixporn/comments/knv0r4/xmonad_youhavenoideawhatspossible_edition/?sort=old"
+            } ],
+            "date_added": "13274164570914002",
+            "date_modified": "13276274964357351",
+            "guid": "f467f131-7035-4eb0-bb2e-6183a20fe79a",
+            "id": "26",
+            "name": "Unix Customization",
+            "type": "folder"
+         } ],
+         "date_added": "13276256611278539",
+         "date_modified": "13269723375054936",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13276256611278544",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13252351469376829",
+            "guid": "f89a91c6-0ac0-43aa-88d6-84974dc0f8ab",
+            "id": "28",
+            "name": "The Feynman Lectures on Physics",
+            "type": "url",
+            "url": "https://www.feynmanlectures.caltech.edu/"
+         }, {
+            "date_added": "13252351477047750",
+            "guid": "43ae862d-0704-49e0-9c4c-48e4b16c86ad",
+            "id": "29",
+            "name": "How to become a GOOD Theoretical Physicist",
+            "type": "url",
+            "url": "https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html"
+         }, {
+            "date_added": "13252359464863219",
+            "guid": "c6ccf4cb-43b2-40d8-aa4b-569697d743a1",
+            "id": "30",
+            "name": "Isaac Physics",
+            "type": "url",
+            "url": "https://isaacphysics.org/gameboards/new?fields=calculus&levels=4&subjects=maths&topics=differentiation#df89f55a-3372-4c5d-8d33-a75fb9c46a2e"
+         }, {
+            "date_added": "13252359706046129",
+            "guid": "9a81afb0-1233-4517-81a4-233fc98b49e8",
+            "id": "31",
+            "name": "Question Bank | British Physics Olympiad",
+            "type": "url",
+            "url": "https://www.bpho.org.uk/resources/question-bank"
+         }, {
+            "date_added": "13253306626177704",
+            "guid": "a67a5046-e83e-401d-a900-627b69135845",
+            "id": "32",
+            "name": "Accounts Payable Guide | Payroll Tax | Payroll Calculator",
+            "type": "url",
+            "url": "https://web.archive.org/web/20110513094009/http://accountspayable.info/"
+         }, {
+            "date_added": "13253306641989442",
+            "guid": "ef90c64c-8f28-4c91-954d-0680941d3984",
+            "id": "33",
+            "name": "Wayback Machine",
+            "type": "url",
+            "url": "https://web.archive.org/"
+         }, {
+            "date_added": "13253733222360522",
+            "guid": "cbb69d32-b299-4fac-941f-5a998dd96432",
+            "id": "34",
+            "name": "Profile | freeCodeCamp.org",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/fcca88f0798-c88e-4f3f-8731-afd720d1f2d0"
+         }, {
+            "date_added": "13253733276855679",
+            "guid": "9d5d4869-0d12-44ef-9bd9-41ac1e072094",
+            "id": "35",
+            "name": "The freeCodeCamp Forum - Join the developer community and learn to code for free.",
+            "type": "url",
+            "url": "https://forum.freecodecamp.org/"
+         }, {
+            "date_added": "13253824392046572",
+            "guid": "be0e7516-54a6-4030-a4ac-7f2a088df405",
+            "id": "36",
+            "name": "Learn to Code for Free – Coding Courses for Busy People",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn"
+         }, {
+            "date_added": "13253966737827432",
+            "guid": "6a80b91a-d63a-45d0-93a8-780ffc849eff",
+            "id": "37",
+            "name": "posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application",
+            "type": "url",
+            "url": "https://github.com/posquit0/Awesome-CV"
+         }, {
+            "date_added": "13254402293532520",
+            "guid": "7868d7b5-7aff-411c-8f0f-4c39b9c4897b",
+            "id": "38",
+            "name": "The Modern JavaScript Tutorial",
+            "type": "url",
+            "url": "https://javascript.info/"
+         }, {
+            "date_added": "13254403545356079",
+            "guid": "9967bc3a-c814-4010-a199-2101b083583b",
+            "id": "39",
+            "name": "Responsive Design for Beginners - Coder Coder",
+            "type": "url",
+            "url": "https://coder-coder.com/responsive/"
+         }, {
+            "date_added": "13254672360905654",
+            "guid": "381dc0d7-f116-47bb-8a6b-3b8e86030fd0",
+            "id": "40",
+            "name": "Software Development and Programming | CodeSpot",
+            "type": "url",
+            "url": "https://www.codespot.org/"
+         }, {
+            "date_added": "13254694341776931",
+            "guid": "1c986a0d-a50c-473e-bda6-d4c000da19e3",
+            "id": "41",
+            "name": "https://leetcode.com/",
+            "type": "url",
+            "url": "https://leetcode.com/"
+         }, {
+            "date_added": "13254727173698407",
+            "guid": "f35e34d6-d4d1-4eac-9e17-53874d232acc",
+            "id": "42",
+            "name": "Foundations | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/courses/foundations"
+         }, {
+            "date_added": "13254761745099080",
+            "guid": "52b30204-badc-417d-ab43-e1e424ee76ba",
+            "id": "43",
+            "name": "A Pen by Mahmudul Hasan Rifat",
+            "type": "url",
+            "url": "https://codepen.io/pen/tour/welcome/start"
+         }, {
+            "date_added": "13254908073707249",
+            "guid": "87b05a54-5e5e-494d-bf30-0505296a5c62",
+            "id": "44",
+            "name": "Step-by-step plan to study in Canada, for Bangladeshi students",
+            "type": "url",
+            "url": "https://www.hotcoursesabroad.com/india/find-your-course/how-to-choose-the-right-study-abroad-destinations/how-to-study-in-canada-from-bangladesh/#:~:text=One%20of%20the%20key%20steps,meet%20a%20number%20of%20people."
+         }, {
+            "date_added": "13254908600840689",
+            "guid": "07282494-9ee3-4d5c-a65a-16fdc98900b2",
+            "id": "45",
+            "name": "Upcoming Intakes in Canada 2020 | Deadlines for 2020 Intakes | IDP Bangladesh",
+            "type": "url",
+            "url": "https://www.idp.com/bangladesh/study-in-canada/upcoming-intakes/"
+         }, {
+            "date_added": "13254909930486492",
+            "guid": "43d82129-3ae0-49d5-aa27-aa191bde9812",
+            "id": "46",
+            "name": "Astrophysics - Programs - University of Alberta",
+            "type": "url",
+            "url": "https://apps.admissions.ualberta.ca/programs/sc/sc030/asphy12#"
+         }, {
+            "date_added": "13254927988241835",
+            "guid": "6f04d536-bd70-4500-97a4-84fab63c50b3",
+            "id": "47",
+            "name": "Study in Canada : Top Universities, Cities, Cost, Visa, Scholarships | IDP Bangladesh",
+            "type": "url",
+            "url": "https://www.idp.com/bangladesh/study-in-canada/"
+         }, {
+            "date_added": "13255038093609822",
+            "guid": "ab6de5e9-59a8-4744-be5e-e4d7093985b5",
+            "id": "48",
+            "name": "Bad Astronomy Latest News | SYFY WIRE",
+            "type": "url",
+            "url": "https://www.syfy.com/tags/bad-astronomy"
+         }, {
+            "date_added": "13255038151640608",
+            "guid": "24623a8b-d26a-44bf-84cb-c6b58ee85b78",
+            "id": "49",
+            "name": "Astronomy Now – The UK's biggest & best stargazing magazine",
+            "type": "url",
+            "url": "https://astronomynow.com/"
+         }, {
+            "date_added": "13256113650096743",
+            "guid": "9bf0457a-d937-4632-9622-b278997af18f",
+            "id": "50",
+            "name": "Rifat's Homepage",
+            "type": "url",
+            "url": "http://customhomepage.epizy.com/?i=1"
+         }, {
+            "date_added": "13257252614939671",
+            "guid": "52169339-c3d1-4ec9-af17-73dac872a214",
+            "id": "51",
+            "name": "🎩 Eva Lovia Earns Her Allowance - PornHat",
+            "type": "url",
+            "url": "https://www.pornhat.com/video/eva-lovia-earns-her-allowance/"
+         }, {
+            "date_added": "13257254277451560",
+            "guid": "307951f1-e005-45b8-9352-0c0d1db0f97d",
+            "id": "52",
+            "name": "🎩 Practice Makes Perfect Porn - PornHat",
+            "type": "url",
+            "url": "https://www.pornhat.com/video/practice-makes-perfect-porn/"
+         }, {
+            "date_added": "13257254281546804",
+            "guid": "862c71d4-f72e-4fb1-861f-bb8fd7f4f402",
+            "id": "53",
+            "name": "🎩 Eva Lovia's Anal Adventure 2 - PornHat",
+            "type": "url",
+            "url": "https://www.pornhat.com/video/eva-lovia-s-anal-adventure-2/"
+         }, {
+            "date_added": "13258151685893579",
+            "guid": "35670cca-8d64-4500-9a58-920d35c33e6e",
+            "id": "54",
+            "name": "🎩 Best Of Stuck Sex Compilation - PornHat",
+            "type": "url",
+            "url": "https://www.pornhat.com/video/best-of-stuck-sex-compilation/"
+         }, {
+            "date_added": "13258152798263929",
+            "guid": "7d07829f-d2ba-4612-8ce9-fe8613cddc7e",
+            "id": "55",
+            "name": "🎩 Payback MILF Pussy Pounding - PornHat",
+            "type": "url",
+            "url": "https://www.pornhat.com/video/payback-milf-pussy-pounding/"
+         }, {
+            "date_added": "13261987559824114",
+            "guid": "ebaafc60-99af-467b-a2bf-2f00d687f2c4",
+            "id": "56",
+            "name": "Pauls Online Math Notes",
+            "type": "url",
+            "url": "https://tutorial.math.lamar.edu/"
+         }, {
+            "date_added": "13262038533169224",
+            "guid": "f077af3c-a201-478f-9726-69b698dcd27a",
+            "id": "57",
+            "name": "This and That",
+            "type": "url",
+            "url": "http://waynesthisandthat.com/"
+         }, {
+            "date_added": "13262038712290723",
+            "guid": "038e170f-8ce4-4deb-98a3-736156e17458",
+            "id": "58",
+            "name": "Cameron's World",
+            "type": "url",
+            "url": "https://www.cameronsworld.net/"
+         }, {
+            "date_added": "13264525018375828",
+            "guid": "d71e3dcf-fa6a-4719-af67-c97504e952c0",
+            "id": "59",
+            "name": "The Ultimate List of Japanese Learning Resources (2021) - Team Japanese",
+            "type": "url",
+            "url": "https://teamjapanese.com/the-ultimate-list-of-japanese-language-learning-resources/#Best_online_Japanese_courses"
+         }, {
+            "date_added": "13264799979555869",
+            "guid": "82763d0e-8efc-4c2a-94bb-f56afcecdd78",
+            "id": "60",
+            "name": "CatManga",
+            "type": "url",
+            "url": "https://catmanga.org/"
+         }, {
+            "date_added": "13266762579851259",
+            "guid": "fc3ceb3d-bca6-4041-8da0-7911145cdcfe",
+            "id": "61",
+            "name": "Japanese - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/decks/japanese"
+         }, {
+            "date_added": "13266762615560742",
+            "guid": "37f889b6-dde7-4f90-8440-24e919335354",
+            "id": "62",
+            "name": "Shared Decks - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/decks/"
+         }, {
+            "date_added": "13266762818212924",
+            "guid": "008dd2ba-850c-469e-b446-48d10840fe0e",
+            "id": "63",
+            "name": "4000 Essential English Words (all books) [en-en] - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/info/1104981491"
+         }, {
+            "date_added": "13267167581088206",
+            "guid": "934ac3db-c820-4712-bfe6-3e05ee1ccee5",
+            "id": "64",
+            "name": "Home · AniList",
+            "type": "url",
+            "url": "https://anilist.co/home"
+         }, {
+            "date_added": "13268603959043574",
+            "guid": "9e5e51f5-0236-4e24-9dab-d06d0c5cf6dd",
+            "id": "65",
+            "name": "How to Fix Ubuntu Update Errors - Make Tech Easier",
+            "type": "url",
+            "url": "https://www.maketecheasier.com/fix-ubuntu-update-errors/"
+         }, {
+            "date_added": "13268604641386167",
+            "guid": "caa2a7ff-b141-4d67-936f-ba14a185e4d2",
+            "id": "66",
+            "name": "Fixing Ubuntu Update Error: Troubleshoot Guide by It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/ubuntu-update-error/"
+         }, {
+            "date_added": "13268643130898128",
+            "guid": "c96aebc6-23e7-4bae-aafb-aae180c22d4e",
+            "id": "67",
+            "name": "New Application | Talent Hunt Admission System-Jahangirnagar University",
+            "type": "url",
+            "url": "https://juniv-admission.org/new-admission/apply"
+         }, {
+            "date_added": "13268665421069462",
+            "guid": "39f24b6e-0bbe-42d9-a04e-2d7320a8f605",
+            "id": "68",
+            "name": "How to Install and Change Display Manager On Ubuntu? - Fosslicious",
+            "type": "url",
+            "url": "https://www.fosslicious.com/2018/05/install-and-change-display-manager.html"
+         }, {
+            "date_added": "13268773550777680",
+            "guid": "47a17c77-8d0e-45a2-afd0-40af6f2c62b1",
+            "id": "69",
+            "name": "How to Install Elementary OS Alongside Windows 10 [Step-by-Step]",
+            "type": "url",
+            "url": "https://itsfoss.com/guide-install-elementary-os-luna/"
+         }, {
+            "date_added": "13268945380943384",
+            "guid": "6f5e532b-9e29-4c0e-bb31-0ecefd711dac",
+            "id": "70",
+            "name": "7 Simple Ways to Free Up Space on Ubuntu and Linux Mint - It's FOSS",
+            "type": "url",
+            "url": "https://itsfoss.com/free-up-space-ubuntu-linux/"
+         }, {
+            "date_added": "13269016980781857",
+            "guid": "0faa246d-aa9c-45ce-aee6-2d51924c4bd7",
+            "id": "71",
+            "name": "OneTab shared tabs",
+            "type": "url",
+            "url": "https://www.one-tab.com/page/1J790IPAQTSHgLYht9ehhA"
+         }, {
+            "date_added": "13268947636826007",
+            "guid": "a678c852-ee47-4cd3-b84d-a69b94633082",
+            "id": "72",
+            "name": "Can't find Windows in BIOS Boot settings or GRUB menu - Microsoft Community",
+            "type": "url",
+            "url": "https://answers.microsoft.com/en-us/windows/forum/all/cant-find-windows-in-bios-boot-settings-or-grub/fb3916ad-1439-428c-a780-f79be53d45a5"
+         }, {
+            "date_added": "13268948607219569",
+            "guid": "39058552-05c2-48b6-8d7c-6514f04de088",
+            "id": "73",
+            "name": "boot - Can't find Windows 10 on GRUB - Ask Ubuntu",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/685553/cant-find-windows-10-on-grub"
+         }, {
+            "date_added": "13268948870518777",
+            "guid": "307a228c-f7ff-42d2-a956-f3ff4d1ae0e5",
+            "id": "74",
+            "name": "grub2 - Unable to boot into Windows after installing Ubuntu, how to fix? - Ask Ubuntu",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/217904/unable-to-boot-into-windows-after-installing-ubuntu-how-to-fix"
+         }, {
+            "date_added": "13268949590896390",
+            "guid": "b79b83d2-a513-431d-8f9c-086ed473d527",
+            "id": "75",
+            "name": "Dual booting Linux-Mint with Windows 10, UEFI/Legacy problem - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/603074/dual-booting-linux-mint-with-windows-10-uefi-legacy-problem"
+         }, {
+            "date_added": "13268949917731702",
+            "guid": "fa55d8bc-a54f-4a3c-8df4-460035fd66cc",
+            "id": "76",
+            "name": "Dual booting Linux-Mint with Windows 10, UEFI/Legacy problem - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/603074/dual-booting-linux-mint-with-windows-10-uefi-legacy-problem/655543#655543"
+         }, {
+            "date_added": "13269034590730953",
+            "guid": "03d05191-fb47-47a9-8448-ae87e5e7d591",
+            "id": "77",
+            "name": "How to Determine and Fix Boot Issues in Linux",
+            "type": "url",
+            "url": "https://www.tecmint.com/find-and-fix-linux-boot-issues/"
+         }, {
+            "date_added": "13269075823130702",
+            "guid": "f13d6f19-ec8d-444c-98e3-c6dc1b302d56",
+            "id": "78",
+            "name": "apt get - E: The repository 'http://ppa.launchpad.net/certbot/certbot/ubuntu focal Release' does not have a Release file - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/60249177/e-the-repository-http-ppa-launchpad-net-certbot-certbot-ubuntu-focal-release"
+         }, {
+            "date_added": "13269185148708780",
+            "guid": "d394280d-6e08-4666-96e0-34bb11da701b",
+            "id": "79",
+            "name": "Windows 10 does not boot after update with Legacy bios. - Microsoft Community",
+            "type": "url",
+            "url": "https://answers.microsoft.com/en-us/windows/forum/windows_10-performance-winpc/windows-10-does-not-boot-after-update-with-legacy/037c4693-958b-4a70-bea3-e5b83de9a47d?auth=1"
+         }, {
+            "date_added": "13269198113425866",
+            "guid": "62a2cb27-005e-40bf-9088-3c49fe02dece",
+            "id": "80",
+            "name": "YouTube Downloader - Download YouTube videos in MP3, MP4, 3GP | Y2mate.com",
+            "type": "url",
+            "url": "https://www.y2mate.com/youtube/TwmrBXOVD3c"
+         }, {
+            "date_added": "13269250779039549",
+            "guid": "d5ea373d-78f9-4ade-ad5c-6b21596af02b",
+            "id": "81",
+            "name": "How to completely uninstall applications by command line in Ubuntu | FOSS Linux",
+            "type": "url",
+            "url": "https://www.fosslinux.com/3534/how-to-completely-uninstall-applications-by-command-line-in-ubuntu.htm"
+         }, {
+            "date_added": "13269252176963042",
+            "guid": "daf233f4-08d7-407c-a521-ed010df862c2",
+            "id": "82",
+            "name": "Super Grub2 Disk Stable",
+            "type": "url",
+            "url": "https://www.supergrubdisk.org/category/download/supergrub2diskdownload/super-grub2-disk-stable/"
+         }, {
+            "date_added": "13269253431855027",
+            "guid": "a7bb1413-01a9-4dfd-b23d-bfdaea9f6619",
+            "id": "83",
+            "name": "The Linux Alternative Project",
+            "type": "url",
+            "url": "https://www.linuxalt.com/"
+         }, {
+            "date_added": "13269255167955582",
+            "guid": "2b247aa4-0814-447d-b4a6-7d7eff3897c9",
+            "id": "84",
+            "name": "Beginner's Guide: How To Install Ubuntu Linux 18.04 LTS",
+            "type": "url",
+            "url": "https://www.forbes.com/sites/jasonevangelho/2018/08/29/beginners-guide-how-to-install-ubuntu-linux/?sh=5696ec14951c"
+         }, {
+            "date_added": "13269591945365767",
+            "guid": "32a52c36-4724-46c7-9f82-b8503d557dc2",
+            "id": "85",
+            "name": "20 Things to do After Installing Ubuntu 18.04 and 19.10",
+            "type": "url",
+            "url": "https://itsfoss.com/things-to-do-after-installing-ubuntu-18-04/"
+         }, {
+            "date_added": "13269591950210341",
+            "guid": "93500ca0-7b32-4fda-afb7-c8684603be80",
+            "id": "86",
+            "name": "Beginners Guide To Install Windows 10 With Ubuntu in Dual Boot",
+            "type": "url",
+            "url": "https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/"
+         }, {
+            "date_added": "13271798305771601",
+            "guid": "f2dea063-7db2-4d59-bf2a-6cf099385ef9",
+            "id": "87",
+            "name": "Japanese course based on Tae Kim's grammar guide & anime - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/info/911122782"
+         }, {
+            "date_added": "13272351796836714",
+            "guid": "ec3c7061-cd8e-4552-9b26-9d79e104ea17",
+            "id": "88",
+            "name": "The Annoying Cups Browsed - ec-cwang's Blog",
+            "type": "url",
+            "url": "https://ec-cwang.github.io/system/The-Annoying-Cups-Browsed.html"
+         }, {
+            "date_added": "13272697710733231",
+            "guid": "d808a96c-4f04-4b31-8153-833b039e347a",
+            "id": "89",
+            "name": "WaniKani Complete Lv 1-60 - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/info/2072613354"
+         }, {
+            "date_added": "13272697754885291",
+            "guid": "ae1a8bb5-fdb0-4399-8653-ca6813a1c1ef",
+            "id": "90",
+            "name": "Core 2k/6k Sentences sorted by WaniKani Level - AnkiWeb",
+            "type": "url",
+            "url": "https://ankiweb.net/shared/info/1980148643"
+         }, {
+            "children": [  ],
+            "date_added": "13272895018718245",
+            "date_modified": "13272895018718245",
+            "guid": "4961d3bc-70f5-4067-af7a-946d18b39f01",
+            "id": "91",
+            "name": "Guide to IELTS",
+            "type": "folder"
+         }, {
+            "date_added": "13273847336956692",
+            "guid": "6dc1a260-50d7-443b-af1f-67246441238f",
+            "id": "92",
+            "name": "Learn How to Make Indie Games Professionally, for free",
+            "type": "url",
+            "url": "https://proindiedev.com/"
+         }, {
+            "date_added": "13276274964357351",
+            "guid": "f95c4c3b-d7a5-4d38-b91c-497e9e9e88b1",
+            "id": "94",
+            "name": "KA_1020114638_1104404",
+            "type": "url",
+            "url": "https://adma394c127769905e430433c93686fab3a.eis.du.ac.bd/bn/r098ejahfof7475afghooat74q05aghogho/KA/KA_1020114638_1104404"
+         }, {
+            "date_added": "13276275107494083",
+            "guid": "c71790f5-e586-4eed-9b1d-1adcbc5c5af3",
+            "id": "95",
+            "name": "GHA_1020114638_4144777",
+            "type": "url",
+            "url": "https://adma394c127769905e430433c93686fab3a.eis.du.ac.bd/bn/r098ejahfof7475afghooat74q05aghogho/GHA/GHA_1020114638_4144777"
+         }, {
+            "date_added": "13276421052760187",
+            "guid": "34f6b324-423f-4a65-9d7d-0acd11b39afa",
+            "id": "97",
+            "name": "Genome/.config/qtile at main · Barbarossa93/Genome · GitHub",
+            "type": "url",
+            "url": "https://github.com/Barbarossa93/Genome/tree/main/.config/qtile"
+         } ],
+         "date_added": "13276256611278547",
+         "date_modified": "13277238740650923",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqw2dyYhl8AAAAAEgAaWHQ1YXN5Uk9WOElYOEtJL1dkSEtHMmpqY2ZSZGsyMkx0bjluS09JWEN1TlF6dWt1dXhJb1FqdU83K2ZKcGNTMUhzeXZZMitVYVp4enVTdGcvQ1hNRlZBPT0gASoYekZ4d2lRbGtCUFdBOTBsaHEvYUYzUT09ErABCF4SqwEKHG9xd2N0OGxaZFRVOSs1by9jRDJTMldqUjl4bz0SJDkyN2UzZDU5LWU3ODYtNDI3Yy04ZTZjLWVkODdkNjI2MDY5ORgAIAIoAjDxnsT3vi84hZ/D974vQInaw/e+L0ocVmRiS0psQmpreCtVM3NQejNNMXpkMHNNa1dBPVonIiX/////AAAAB/00dHorWWhOWEhGanFVdXVNdVlWNFhqMW56TDg9ZQAAAAASpwEICxKiAQocRDl1dERzUnRITE5vSytiSFgwNW9JVWhOY21rPRIkYWE3NDg2NTktMmE4OC00ZGZhLWFkZjgtYmRhMzVmYjUwYmJmGAAgACgAMKLak5esLzi615GXrC9AuteRl6wvShwwbFdJdUdNRVVJSlFBeUVYeDV4YUREeGN1Rzg9Wh4iHFpaZ2NxaVFmeUxUd3B5MDNaK1dqRHR1NzBvRT1lHLJoTRKGAQgBEoEBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9EiRhODIwZDdmYi04YTU0LTRlYWMtYTIyZi04YjkwMzI3MjJkMzgYACAAKAAwATi4hPi01C5AuIT4tNQuShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgIiAGUAAAAAErABCD4SqwEKHENyNWZEWEVrbC9UQ1ZyeDRyUlhZWFJOZzdXST0SJGZlMjNkZjFmLTE3ZGItNGQyNS1iNTIwLWYxODFmYzc0ODIxZBgAIAAoADCPqc/ytC84jcbXv5svQI3G17+bL0occjhMTVFDQXZlSnhSSzNITW1JQkdyWGlBK0FNPVonIiX/////AAAABLZqc0lTMmJKbWVXSVNyaDVxcUkxbkM0dTEwamc9ZTCkDfgSqAEIDxKjAQocTFpjS0dldHhPMitKRjIxcmRRdlNFUXdhNzRJPRIkZTgyNTBmMTItZmU2Zi00ZWExLWJjODItYjY3ODU1YzU2NzNiGAAgACgAMIitlJisLzjV0cyXrC9A1dHMl6wvShxuaXVjUTlFeEppMmNXVStraVVYK29NZmg2Nmc9Wh8iHfVZY1FYVHcrbnZzOVMyN1NhUmJlbVhvazgzM1E9ZRyyaE0SsAEIXxKrAQocaGpiSTR2YUJud0szNWNpMmdXcGJNZ3BEMXBjPRIkZmM5MTdkMGMtMWY1My00NmQ2LWFhYzktZTBjMjRmMGYxMzg5GAAgASgBMNb7zfe+Lzim/cv3vi9Apv3L974vShxPeG5FZzRQalFTczJKUmoySGQwS3RlL2xsQWs9WiciJf////8AAAAH/mJXdnl5T3RPZTJkWm1RUm1ENUVjZEhscWJXMD1lAAAAABKlAQg0EqABChw0czZ0bS8yQSttUG1EL00xV2VOdDk3ZlYrK1U9EiRiNTNkZjViZi1iZTU2LTRhNmYtOWNhNi03OTkzNTY2NGYxN2QYACAAKAAwAjjM0uCJ+C5AzNLgifguShx2UEJqejFkOFkyTGxLcnpkWDVneTZwL0FuQVU9WiEiH////1drc04yZmN3UFJXSG1HVEFBcjVXMVlSNFcrST1lOa0dsxKjAQgeEp4BChxwb2JONU90b09EWWY2d2NYZFBzQTZjSnNzc2c9EiRmYmU1N2JiYS05MjUzLTQ3YzYtOTdhZi1hNWE1N2QyYzIzODcYACAAKAAwAjim/9zr5S5Apv/c6+UuShwzMG5pK25nZzBxYjFPcVA4MEtyUDRVMnpHZk09Wh8iHe56cUVQUEhIZEhPRWJ0OU4yZWh2V3Z0b1FVVUk9ZaMbvEwSsAEIUBKrAQocUkxhc1ZCN3ZGUGFFYkpackVJVzM5eG11UzhjPRIkZWYzY2UzYzQtYTBlYy00YjU1LTg4NTctNjcxODFkZDg4YzZhGAAgACgAMIntgsmkLzisxYLJpC9ArMWCyaQvShxUYnVkdGhOUTVDcDFZU2ZNSFZKT3FHZXRTcDQ9WiciJf////8AAAAGukc4czNUaVZScjNkZW5lVnkwREIvSjlxMmFrbz1lGvGhdxKmAQg5EqEBChx4SDJMZVIrbkVHSFo1RVNKdy9TQjZlZFB1bjA9EiQyMjg0ZmJmYy1iMmM5LTQxNjktODQ4Ni00YTRkNzU3NmJkZDUYACAAKAAwATiOuYjziS9AjrmI84kvShxSNGRlQ25mUzRsRndVS2k2WStJdEt6R01QcVk9WiIiIP////d4RHk2Y0xHU1hUU1RPMm5mY2JvcVlFRm9FOEU9ZQAAAAASqAEICBKjAQocd0w4eE9SaHkzVDNqYUIyK0s2Ni9kcG5lb3FjPRIkMWU2NGI4MDktMjcyNC00M2VhLWJlYjAtMTU1MWIwMzNjZmVjGAAgAigCMNCP/e6+LziG1LfGpi9AgIT97r4vShxwanFXV0hSWFJWV3Q3ZS9XMGJXYWN1T3JYR3M9Wh8iHf4rUGNndElQb05HTmt6WElDNVBVd3NaeDlYaTQ9ZckrJzoSqQEIChKkAQocN3VGQXFrY1FYZE03b1huWmFaYVlnWlV2RFJFPRIkY2I2YzY5OTMtOGQ2NS00MjQwLWI5YTMtZjgyMWRjNDM5ZTgxGAAgACgAMJvak5esLziuvZOXrC9Arr2Tl6wvShxpMkRzOW96RVhSUy9LQnJ2a2ZReHZSdDJPd1k9WiAiHv/pcWNpMk5COTQ3Rk5FSDQva3hRUUh6ckdDc0JNPWUAAAAAEqgBCA0SowEKHDZwaXU2Z2FIZzR0aU1UbHF2Z3JiL3ZHRkFjaz0SJDMzNjA1YmZiLTAyMzMtNDk3Ny1iNzMwLTMwNGZhOWIyZWEzNhgAIAAoADCa7sWXrC84x9DFl6wvQMfQxZesL0ocWlZQM3hJNTJrdkV4ZjBvbDR1Y2NtZTFpenNNPVofIh3WaE44a09pVyt5V0xqdEdZSzI3aFI5UytGUVh3PWUAAAAAEqMBCB0SngEKHDYrTThKR3hpVTBtMkF6cWR5cVFGZGoyYi9rcz0SJDhlYWRkYzQxLWFiMTktNDZjMi05MWRhLTUzMzBlMzY5NzlhYRgAIAAoADABOLe69eflLkC3uvXn5S5KHG5XZll3cW5DVkxENlQzZGJUbXRkS0F0N0lVTT1aHyId3U5BVlJyWnp4cDFuMTBqQjNBeXFuZzRvdFdROD1lAAAAABKmAQg3EqEBChxMb0FrUFBRTlM4STU1elRRMEJmQUFPSS92UW89EiQ0OTJjNGFhOS0wODc1LTQ3MTYtOGU0OC0yOTkyNDZhZmJmMTEYACAAKAAwATjkgJq2+y5A5ICatvsuShxiM2hEdFA4R2NJUEF5Wkc0WU05bmJ1bmpUekU9WiIiIP///9xvMyswOXZwcTlhdkMyYlJWTVFHREc5RlN0UWc9ZTmtHbMSpQEIMhKgAQocZXVzT1F4NERLK05mSmlkS01YUmIrSG5kMUtVPRIkNTc4N2YyNmQtNzM5MS00NTJmLWIzOGEtMDZlNmM3MzFmYThlGAAgACgAMAE4saPu6fMuQLGj7unzLkocdVUyMFBTMWY3YUtUbDM2YjNPK2FQbzhOZlRRPVohIh////45bWxnN09VWFBIS0lrOVY5akJOVUNnM3BpQkk9ZQAAAAASsAEIQRKrAQoceTlzMnJhTTFQMjZzdTJMNDI0R2NFOThwK0RNPRIkOGZkYjQ1NjMtOGUxMi00YmIwLWE2YzctOGMxODIxMDZhYTQ5GAAgACgAMMal3a2iLzjYn9qtoi9A2J/araIvShxURG9RVmdxQUkwWjZsaHp0Wk1CR1E0eFBkOTg9WiciJf////8AAAAE9jNCQXBlTkpKNTQxU0I2TlVMREo5VWdHczJqOD1luj+BUhKoAQgMEqMBChxNU3VSdlBSd2s2Rm1XZTZ5OTBwOTR2MDQ5YWc9EiQwZmZlOTg2Zi00OTQ3LTQxYmMtOTk4Ny1lY2YzY2JlOGQ3ZGIYACAAKAAwzLrFl6wvOOmYxZesL0DpmMWXrC9KHDIxVUkydnF6RVY5ZGZhUWlNSzJSSGdGRFpycz1aHyIdrTk3SHBTZ0pyM2t4MHpBU3RQS1V6SnUvYUdOTT1lZXo7rhKwAQhWEqsBChxoQ2RxVHQ1cGQ4UlZ1UEhlWVg5NThDa2dvQUU9EiQ0ZDA3MmZmYy0zMjlhLTRhOGItYjQ5OC01ZTJkZThiMGVlYmQYACAAKAAwpMnohKYvOIK36ISmL0CCt+iEpi9KHG5wbnE2bW9Fd1lMZ2NrcklqTkVpcUd1RG1nbz1aJyIl/////wAAAAb+NHYxWEdwdjNDdmYrcGUvbE05K3pYblJtUDFVPWXJKyc6EqQBCCYSnwEKHFVaUUNqSGdUWkRsdDFETkNDaEE1dHVvdGk1ST0SJGU0ZjM5NjM4LTFkNGQtNDU4Zi1iYjFhLTYxNmQ0NTk3MTgyNxgAIAAoADABOJyu6bntLkCcrum57S5KHGFiZTRYUTFiM3R2cjMwUy8zMTVGa1pOU0VtYz1aICIe//1yVkdtQS9uY2lkTTVyZXBzcjZsRERVT2Zla1k9ZU3pOQwSpAEIKRKfAQocNVFyeTJ3Q0NJMER2S1VIdyt1cjhQUys5N3JnPRIkZTJiYmFmN2EtNzcxMy00YWFjLTlhMzQtYmU1MTRiZmQxN2QwGAAgACgAMAI4lMmKxe4uQJTJisXuLkocVFdaYXRsbFhneDRJTmozejd2dXJGT1E3U1VJPVogIh7//1UvUWZtemswbU5leFJqMmszNFhlc0dkak50Yz1lCoHy9BKnAQgFEqIBChxuV3JRMFc5T3czZ2xUcTdLT0ZmWGZNMEdmR2M9EiQ3ZDYwZWZlOS01NDlhLTQ1MmItOWMxZC04ZmI2YzZmZmE3MDkYACACKAIw1o/97r4vOISUharVLkD6g/3uvi9KHEw3SFNHZXVVT2JTdDRzRE5QTEpoRTNCbW03ST1aHiIcN2ZZTUg3cDhMektKSlpNN0xkRzhYQkU3Z1lZPWUTNAu3EqYBCDoSoQEKHHZSNTVWakZicVhpTFZNZFVROFpQbFRIVndyUT0SJGJjZjRhYzViLTg1Y2QtNGU4Yi1hZGVmLTZmM2U1MGViNWIyMhgAIAAoADABOI23k/OJL0CNt5PziS9KHDhwVy9GT2NOb3pwdmVWRUVla0pqcnJsbUZhST1aIiIg////+3BsVS9JeWtFL1lkTzN6aFRQdzE0ZGRnWWhVVT1l4TarixKoAQgOEqMBChw0MFJGRUd6S0V6cUptOUxhK3UvaHlURGRPRG89EiQ1ZTI3ZTRmNC00OTVhLTRhNmYtOGE4My1hZmIyZTk5MzljYmYYACAAKAAwvq3Gl6wvOPjuxZesL0D47sWXrC9KHEROZXJvSVJjZStubTFUK3E2NFJHelNYUTg5UT1aHyId63pBZVk0WU85ZXQyY1hDNmViZHlnRUtMVnVwaz1lENDZVxKwAQhCEqsBChx3YmovTlg5RjdYTXNKUTExeGRuWGNKS3orU0E9EiRkNmRmNmZjZC00ODc5LTQ0YzUtYjI4MC0zNmZmYTQyN2VmOTYYACAAKAAwlfOHrqIvOKrxg66iL0Cq8YOuoi9KHGJYTG5lS012OGNTVnRObDFJblluT2grYjNqWT1aJyIl/////wAAAAT7YTQwSjJ4S0xQTThLRFNQMWEwL29KWXc4c3g0PWXJKyc6EqQBCCQSnwEKHGpudkR4WHdpeEd0Sk1iNGtkQ1A0UXcxb21HQT0SJGQyM2EzMjg5LWFiNTAtNDM4MS04Y2NkLWU5ZjM2OGNjNzgzYxgAIAAoADACOKeHoabrLkCnh6Gm6y5KHDJ6b0h1UlVvM1VQdlRzVUtITXBuNzQrSElKcz1aICIe//Z0ZEpKWWVBYVN0YUlLdHN1MFhYQVR2dFVxS1E9ZXeJIu0SpgEIOBKhAQocWis5bjF4V0NFRHlLYjFnR2VRU0RUaElKTHVVPRIkNTJiNGQ4OWItZjEwMy00MTM4LWFkMjEtNTY4M2I3OTRiZjQ1GAAgACgAMAE4p6Ph2okvQKej4dqJL0ocK2NJMFc0VGt4Ykh1Rmh1Y0t1NjRwaU9wNmdvPVoiIiD////uYkdSN3p1VHhwREVETTRIelF3c2c5dWNXZVZjPWUAAAAAEqQBCCcSnwEKHGJDWDFXKy92ZEpGYVFxZnFOQ0NPQnNMSEZ2az0SJDFiNTJhMDU3LTI5MmMtNDU0MC1iOTg4LTY2NzFjOGU2MzJkMBgAIAAoADABOIzitbrtLkCM4rW67S5KHHhXVGszTnZNeDV6L1UxeG1DWE9qemJQb1lyMD1aICIe//5CMTlYdHlzRElWSUxJdUNPcXFkNG5uWTI4cGc9ZagDWXYSqQEIZRKkAQocQWphVURkYjZSQUxRNlM3WjJkNDNNQ2h3U3pvPRIkNDlkMGY1ODQtY2U4OC00NTE4LWIyYTMtZWFjZGE2NmRkMWFlGAAgAigCMNisrozDLzj6nq6Mwy9Agp+ujMMvShxtdjZmcVFQck1xZHp4SmhoQkFWbFZMbVRpZm89WiAiHv/7ekcwYjFsVk5FTnNtbXdFTWovbFFjc0hWTVJBPWX/nIfREqgBCBkSowEKHFdFUHZ5VjdlekI2bDNzS3RZaHlkZm1JaEZvVT0SJDdhMmNhOWVmLTIzMGUtNDcxYi05YzM1LTdmNDZiOWE0MjgzMBgAIAAoADDn3++rsi84k8fvq7IvQJPH76uyL0ocYjJQM1JVaVF2T29VaEdXKzFQdmExVDYwYTM4PVofIh23SjJmOFJLL2JvbUFwK1l6YTJaZjArQWhqWlVNPWUaLUriEqkBCBcSpAEKHElYUUJDNG5BYWNDK0F1dGUzWmRRM2x4UkU5QT0SJDMyMjZhOTMzLWZiOTAtNDE4OS1hMzhlLTg5MzliNTdlNjIxNxgAIAAoADD89eursi843t3rq7IvQN7d66uyL0ocWHdxejdoZSs1U0tIbDE0eXJQYUkwWlVyTGEwPVogIh7/9HA2SXZCMzBZejU0dE0wQ0pGK0VGVDZua1FwMD1lAAAAABKGAQgCEoEBChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EiRjZjVhZDE1OS0yZjliLTQyZDQtODdjNi1lOGIxZjQyNzQ1MDgYACAAKAAwATi4hPi01C5AuIT4tNQuShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgIiAGUAAAAAEqoBCDUSpQEKHFlCTTVsUFMwSFpNU3F0TzhrODkxNFU1ekpOTT0SJDYwMGNmOWE5LTQ3YjYtNGU2Ni1hM2IzLTMxYzA5YmQwYWViMhgAIAAoADCI59CWnC84y/LgifguQMvy4In4LkocYkFDV3ZLRVRjNUVEUmY3NmVBbkNmRlROQUQ4PVohIh////9yd3dPSHBlTjcrNWtEeXNGc1pKS0RjS1NCKzA9ZXdxqsgSqAEIExKjAQoceVBMc0ttQll5VlVxOXM1MmZUcUdLUlU2T3cwPRIkZDkxNzhjM2UtMjMwNi00OTQ3LTk1YTQtZWNjMGQwNzQ3NDUzGAAgACgAMNu1u5isLzjOmbuYrC9Azpm7mKwvShxOMDJPWk9SVlpPZGR2UjU4R2w5amg3bWlhalE9Wh8iHf93M3dneHhrZEpLNTByUDFZaHk3Z0ZTbjFOSGs9ZUMYexcSqAEIBxKjAQocdjQ2Wks5NTFLR1RXZGNlRHpCdUNsSVJjN0hRPRIkZTExNTI5ZDMtNzg5OC00NDhmLWFjNzktYzBiNGE5YjE2MTYyGAAgAigCMMOP/e6+Lziug7iToy9A/oP97r4vShxzNVdMZlZNSm4vOVlScTJlR1pVZVpqc0R1TTA9Wh8iHbhpN0RXcXVHNGJpRlROMjhMS21Lak5PRnhaSWM9ZckrJzoSqQEIFRKkAQocaXJQQlROSnhKaGQvZlJXaDUzeWsrK1ZwZitNPRIkMGEzOTJmODgtOThiZC00MjFhLWJmODEtNjg2ZDI2YWYzZjgxGAAgACgAMP7Rx+avLziggsfmry9AoILH5q8vShxzRzJDSzJCam9hc0JQSmpSRFFvMENLZXJ3bXM9WiAiHv/db0dvM2hQdTRMem1zc1B0NnZZeDUycFJVS2NNPWW8VLzkEq8BCE8SqgEKHDBHZGxjNEZtS05BYXBlWFN1blVoTEp0bUNsST0SJDI3NWI1MGM1LWQxN2QtNDFjZC04MDY2LTM5YWZkZTFhOTNkZhgAIAAoADD8wuvCpC846Z7rwqQvQOme68KkL0ocUU0xdFphTEhVTmhQUmRFN2dPaXdwUFJ0d0lFPVomIiT/////AAAABnVMZlkvOXBVanlZclE4eUFUWGhEVHJYeUp2ST1lNlBJMxKnAQgYEqIBChxPNWd3L0U1UnljSElDMDRNQkFkMGVDaHpmeUU9EiQyNDc2MjNmNS0xZmQ2LTQwZWEtOWE1Zi1jYjI4YmUxNzk2MjMYACAAKAAwkvbrq7IvOPew6KuyL0D3sOirsi9KHGNJak9WR2pEZlROdFJHSXIrSno4ZU5EdC9QZz1aHiIcb3o1Zi9jVXdzeldtRVR3RDllTXlOZ2NDUHRzPWVkHRGDEqkBCBYSpAEKHE93aDNVQTgrR3dvVGRLaGo0aGpIa3pnMlJ1VT0SJGRhZDNmOTU3LWFlMDYtNDBlZi04NTYyLWY5MjNhMzIwYWQ3ORgAIAAoADDz3+Xmry84ktXl5q8vQJLV5eavL0ocbGtnYmJ6WHY5VlhoRndmWGZvaHNibkF6ejNvPVogIh7/7mE2bXlvWGxzTG4zL3pKVEFMRkRPbnN1T2VqZz1lvFS85BKkAQgrEp8BChxaalZyaWd3ZDlMSU1LOXFQNDhoMDlQWUhwTFE9EiRmYWM2NjE1OS00Njk1LTQ1NGYtYjE2Yi1lNjBmNTY5MjJiZmEYACAAKAAwATjLxZzl7i5Ay8Wc5e4uShwxYWtqZ2VxM1FuOGcwd2NuUVkvS0lGOTZlYlE9WiAiHv//a0ZFUENSUFV0QU1Ya3EyR281NWVLeFI3NzF3PWUAY5OfEqkBCBoSpAEKHGpVQnNEaTVGc24rZm9NREYrc2dmbTA5eVh5UT0SJGM2NDE0ZTU3LWI3YzktNGMyMS1hZmZhLTBlNWFiY2JiNWUzOBgAIAAoADDVpJuJty84zYabibcvQM2Gm4m3L0occzRXVFRRdFR1WlpSdmhvLytoOXh0Q294UUc4PVogIh7/+kxQMCtrODlFWHMvMVJWNG9LNlZvWkxqSDFiTT1lAAAAABKlAQgwEqABChwvVVQwWVFmQjhCQjRpSkF1Zk5kSk9ReHRUWUU9EiRkNDI5M2QyZS00MzFiLTQ0NDMtYWQ1ZS03MWZmNDIwN2UxZWUYACAAKAAwATixwv/o7y5AscL/6O8uShxvYVpQemkrYUd5aG5jL3NMTWZlUDZFY3dUZlE9WiEiH///+2dKR2Nxbk1wMGxicDJ6cEp6ckhJOVhRQncrOD1lCvsaexKoAQgREqMBChxUU1cvaEswTnMxNjY4bzFKaWFFRDBrc1FPK289EiQ5NjQ0YWZjYy0xMmZhLTRkNTQtYjc0Yi00NmIzYmVhZmZhYjAYACAAKAAwy7SamKwvOKaampisL0CmmpqYrC9KHDZoYXBSZVY5YXFHcTB5aFJjRGRMUStjRjkyaz1aHyId/WxpV3QrdFh6bnZnYWZydlVNSWQyOTZnSk01Zz1lHLJoTRKnAQgbEqIBChxzTVJEdEJRdkk4U0duSXVNTUYxeXp6SFplU2s9EiQ5NWNhNWZkMS05ODJiLTQ1ZTEtOWM4ZS0zZDlkMzJjY2EwYmQYACAAKAAw5aSbibcvOM+zl4m3L0DPs5eJty9KHHZKNHBNK1lPbVJPNmtFTlJjbCtoY2cva3Nmaz1aHiIcQnNTeXBQY3VXQU8zcWExcXZtRjlMT004eG9zPWV20QkCEqgBCAkSowEKHGFlU0NoYml5NUNJMUlHMnVLdFkyNk5tUzdzST0SJDlhZTk0ZDZmLTE4YWMtNDNiNC1hMzNmLTgyODI5ZTlhNzViZBgAIAIoAjDJj/3uvi84htS3xqYvQIGE/e6+L0ocd1ZNSGFNS2xBeXZGbE92aldqWDk2dGhTQW93PVofIh3/N3l2T0llYnBVZHIrV1FzUnM1ZDYzUjJhRW5RPWXJKyc6ErABCEkSqwEKHDdlZWxBZXJXTkdtcW4xZThKSW9nUkVKdEJPVT0SJDM4YTI3YTE3LWU4NzItNGFjOS1iMjQ3LWRkYjRiYjg0M2I0NBgAIAAoADDQ2YbSoy849PGF0qMvQPTxhdKjL0ocbW94aytveVlCYW85WndQK1JFeGpTRjFMYlJ3PVonIiX/////AAAABdZCSkQ0Y0dyMDlZTit3WE5HOFZpRlNXUDRCeEE9ZXbHnWAShgEIAxKBAQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRIkM2EwYjQ3ZmYtYmMxNC00MjE1LThiOGItMDk3YzBhZTJjOGJmGAAgACgAMAE4uIT4tNQuQLiE+LTULkocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoCIgBlAAAAABKjAQgfEp4BChxRbHp3c2I2N0FzVk16SktXZEVWWUt5blNoTEE9EiQ1MDJjOWE1Mi03YjhmLTQ0MGMtOTYwMC04MjdjNTlhZmJjMzUYACAAKAAwATjG2+vr5S5Axtvr6+UuShw4WkhBNUVpRUs2czZ5V1RhWTJJN1FyZXlHbFE9Wh8iHfczbGF5ZDRPMzJWM01jckJuQXpWU0IwMHAvTnc9ZQAAAAASowEIHBKeAQocSTBnWGsrclpnTi8wazZUZUtIK21OODZaWitBPRIkODMxZDBiOTQtN2YxZi00ZDk0LWI5NjctMTliMGVkZmUwNTQ1GAAgACgAMAE47/705+UuQO/+9OflLkocbDlwZ2V4NnVwSUxQK20ybzFaa0FLcExjalZVPVofIh27N1FBK2dPUHpqSHVvZzR4UGpscUsxL0pHRDRjPWXmtMaiEqQBCCMSnwEKHER0aHZpQlRhK05TUzV6cjVYZlBnU2U5dVRwRT0SJGJjNjgxYjZhLWJhY2ItNGI4My1hYTM5LWNmY2IzNmQ0NTU1YhgAIAAoADABOLfp5/rqLkC36ef66i5KHGxaN085UlF2bGkxT3o4QVJ5Qm5kcC9mQ3dIVT1aICIe/+wydnVBVzFZbjUxNFB6enh4L1RqY2NscThkNHc9ZUXyKgcSpAEIJRKfAQocTERzTlVlNEpDNUNNOEV6T2wvYXBwc0xWRjQwPRIkMWVhYTQ4NDktMDc0OC00MDUwLTk2OTItM2Y4YmVjNWQzNjU0GAAgACgAMAE4o5OR6usuQKOTkerrLkocUzU2UmE4b2psTzc4bnlFVjVFS2ZobXBoV1BnPVogIh7/+y9ucEJFVkVLQ3RSNmNpaENLTWRXajROSTRKdz1lKNDhqRKwAQhREqsBChxtM016MXJKU2JiaHEvbDZWcHhpYTlNWHpuYXM9EiQyZjAzYzBmYy04ZmI5LTQ0ODItODQ0MC1kYjMyMzJiMTAyNzAYACAAKAAwiPSS4qQvOKj/kOKkL0Co/5DipC9KHFpxNHcvRU1yWjJRS2dMYURYOUZ3RXVMK3ZMMD1aJyIl/////wAAAAbdeFZmenhYbmVHMGF5MGU0UnMxR0JXY3VndmdvPWU5kS6pEqcBCAYSogEKHHJUenQwOEtJbkVRdCtXZHlNMjkrbnVpOFhjTT0SJGQ2YzNiMzNlLTA3ZGYtNGNhYi05NmZmLWRmY2E5ZTM5YjYyZBgAIAIoAjDej/3uvi84+sWK5aEvQPyD/e6+L0ocRmdYM3A3cHl1aTVFOEZ6Qkl1TTdyWXhsYkZBPVoeIhxwQ01manJTRnBJOEFHaXdYWlZ3S2NWOENNNVk9ZaczzXISpQEILhKgAQocTHdhL2EyOW5hUEk0MHpRWTRmeVRZSGwvSWdFPRIkMTcxZjA4ZjgtNjM4MC00YmE4LTgwM2UtMzBmNjJlNWIwM2NiGAAgACgAMAE49ofxq+8uQPaH8avvLkocdEVDdEtXSGF3NFFNckdwZU5JTVBOL2hGdHdNPVohIh///+1UWi9qeXhOMjBCNEtZSnJSaWs4bTQzNTFMKzQ9ZQAAAAASqAEIEhKjAQocOXZIV1pFdUxVK3oxbGVJZzVFZVQvL3MvMFkwPRIkYWVmOGUwNDMtOTViYy00OWVmLTlkZTgtZGFlODE1YjFiODAxGAAgACgAMI/4qZisLzjR3amYrC9A0d2pmKwvShxGRGRaSHFxbUIvQlRaMXRwcXRvVVpsTVEydDA9Wh8iHf5mSXN1ZUtuSFhQNVlGQm9vVE1QNVRpc2lhSlk9ZRyyaE0SqQEIFBKkAQocc1VKMFFBYzZsSUZMVFVYeTdRUnBQKzAvZnhrPRIkOTRhYmM2NzQtOTliMS00ZjhkLTgzMzUtZGRlODdlMDkxOGMyGAAgACgAMJLwweisLziaosHorC9AmqLB6KwvShxZODk3ejJSSW5zZzVZbTN2Ri9UbUhBYS9mRWM9WiAiHv+7YXNONENEMGtPNVFHbXNyUEgwMFVCcWZhRkZJPWW8VLzkEqUBCC0SoAEKHDMyVDJZTElnMnNJaUJLcXY1VWg5NHBKL2pxND0SJGM0MWIxZGU5LTI1ZGEtNGE4NC05OTVmLTZjYzQxZDRkOTYzYxgAIAAoADABOIn0n6vvLkCJ9J+r7y5KHFZYMVhqaEZvUFJaZ2JuRExxaGFkdUM2bmpxMD1aISIf///aL2pNNHRpdjQyUmwzKzFSV0xVVW5YbGhVTldrPWX6giQLEqQBCCISnwEKHDlTdU9XNWtYNUVSRGpTbnBPaFRFZE5JZFBlOD0SJGYxNTlmNDBkLTA0MzItNDA4OS1iNDM5LTRmODFmMDU4YTYzZRgAIAAoADACONi/5PrqLkDYv+T66i5KHFBjOGs2WWxaWVhicUl2aTZiYTZuVmhxRjNMTT1aICIe/9h0emdxNWRMNE9DbWVnQW50UzhLWXRLbitEUGc9ZXeJIu0SsAEITRKrAQocdVNoOW11ZDEzeklQRTFlb0tlS3h2NE1yL1hFPRIkZTAwYTM5ZDktMTNjOC00YTI0LWFhNDQtMTAxZDM0ZTYzMGVkGAAgACgAMOa4hvujLzie9IX7oy9AnvSF+6MvShxQOWNueENWSmpDdDNkOGFqd0R4WXVnRnpEVk09WiciJf////8AAAAF/VZTZ3E5UGVYYUZCeVN1OThUd1Y0Slgyd3ppOD1lyB4ZxxKlAQgvEqABChwvZ1lBN3BST3dkK1VaNHhKOW1lcjI4S2xTdFk9EiQ1YmRjOWI0Mi03ZjJmLTQ4MzctOWRiMS04ZTYzMTM4NjFmNzkYACAAKAAwATiSnL+07y5Akpy/tO8uShxxQ1J0dDJrSUM1NzZYc3hFa2VoM0VFd3hkdmM9WiEiH///9nQzMTdGZUpSVDdFM0xnc0lGbkRFdGprelpkST1l+oIkCxKoAQgQEqMBChw0QzFLck55UkNTZ1ZoUUlRekQ1SmNTV1Z5b2c9EiRkY2UxNzNkYy0wMmJkLTQyODItYTBkNi1jNDBhZjNlYjFjODkYACAAKAAwuIDdl6wvOKPl3JesL0Cj5dyXrC9KHGkzZzBmNkJXekp2eVhqWElnTnlha0JoMkxDND1aHyId+lVmZVVaZk1VbXhKcTZEVHBhM0hHRS9TU3pIcz1lHLJoTRKjAQggEp4BChxHNVhqYU8rMy90czBzZ2RPUUF1T0M0Umcybm89EiQ0MTZkYTRiYS00MzE0LTQyNzctYWJhZi1hMGU2NTJhM2E0YWUYACAAKAAwATiBka+v6S5AgZGvr+kuShxvNzBVblAramNqOU00OWkxSWR3UW4vMHlucnc9Wh8iHf9hOGRXRFZ4a29wUGw0NS80RmdhY3RuaGlBanc9ZQAAAAASpQEIMxKgAQocRWFUWGdrOW1vcTN2SkQ0TEd5NVg3UEpndmE4PRIkZGQzYWVhMzgtMDE5My00NDhkLWE4NzAtMWU5YmJkMWEyM2VjGAAgACgAMAI40Zb7iPguQNGW+4j4LkocWnNyUzJhZ0RjVTV4TjlmSHZGL0VtWlErcTJ3PVohIh////9MVU5zQUJaVDV4Q2V5WFVSYzZTdGtFVE9ZWDQ9ZTmtHbMSrwEIRhKqAQocZmh1OWJKcXQ2eW1xS0FvaGd0M3RTZm1hYkdZPRIkNmRhZjhmM2QtNThjYS00YzI2LWExYzEtMGMyM2M3YmJjYTg5GAAgACgAMJbowdCjLziE/cDQoy9AhP3A0KMvShxtRmE3R1F5S3c3SGxRVzZqdExXZnhERFVWWU09WiYiJP////8AAAAFWTEzdllSTXNKOFoyRGhBM1Qwd2dicjBBVU84PWXJKyc6EqUBCCwSoAEKHEJCdHZQQjRnZEx0ZkxpR210YzBvZUIxbzJDTT0SJDg5MDQ5ZTY0LWI0M2EtNGQ2Ny1iY2M2LThhMDY0MjdiNTg5NxgAIAAoADABOOzd/6rvLkDs3f+q7y5KHGxYTE9BaVZCM1BIb2s2Mm1JTzlPSlpXMlFGYz1aISIf//+1ZHd3M2g1RGRBSndISEZlVU1aSkZJbHE1LzhNPWUAAAAAEqsBCDYSpgEKHHRoRGIvZnJveFlzUkM3V3UzZHN1d3MwdnkxND0SJDM1NDIwYjhkLWQxNDMtNDg3MC1iMjliLTdjYmE5MTIxN2NjNRgAIAAoADDWqcynoy84l47WtfsuQJeO1rX7LkocNzZSVXQ2M01ZK09ISW1HOGVRTUkvUUhWZTZjPVoiIiD///+5NThWcHRjU1pwQTk2L2d1VFlkS3YvT3E2cnNRPWV3carIEqkBCGMSpAEKHGpxUWJVNmwrdlg3SjRUMWdFSWpscVBheDRGMD0SJDgyZjdkZjRkLTExNWUtNGY5My1iNjUwLThjY2EzMTRiZDlmMBgAIAMoAzDF7YvDwi84q72Lw8IvQNrji8PCL0ocU3E0dGR0Sm1KVjFRcTZZRVZPSjVKWXE5TytrPVogIh7/91ZiTGFvcE9jQksxWktxTXNPK1F0elRPTldMcz1l/5yH0RKvAQg9EqoBChxwVlRoYUMvNFJsZjlUeGlLTnloYTRVa0VsRjA9EiRkNWU5MDVkOS1iMDIzLTRlODItYjZmNi1kZTZlZThiNWMxZTMYACAAKAAwl6nP8rQvOKOv1b+bL0Cjr9W/my9KHE83WVdoTlBGaFE0WHpXdHA1ZllxRWZONnJsbz1aJiIk/////wAAAARsamJXZkJRckhmZm5iU0tjVjZGVGZramZGOTg9ZTCkDfgSsAEIWRKrAQocaDV3TWlOVy9paEJ3UUZmQnd4QkFpa296R3ZjPRIkMDA2Zjk3MDctOWViZi00NzFkLTgxOWUtMGE2MTI5NjM3MDRhGAAgACgAMLed4c2xLziOgeHNsS9AjoHhzbEvShxnWCtPQmYrRVBMRk04dW1maUM3TkhGKzh1alk9WiciJf////8AAAAHvDYvOTVRaUZzd25BZWZadFUwb0xXaWVQQjlSRT1lMKQN+BKmAQg7EqEBChxjaEVqTnpqcGRlVzNpZ2N2Ti91V2x4SHhxbVk9EiRkNTVhNTBmZS02NzUzLTQwOTctOWEzNC01YjdhMjQwZTIxZGUYACAAKAAwATjqutuUky9A6rrblJMvShx5R2J1aUVnN0tlYjY5RXBPc0dZK0w1emN2ME09WiIiIP////1WajQ4aEcyeEZ2Uy9yRE0wUEpDYnNGWkd2VGM9ZaczzXISsAEIPxKrAQocY25VTlZwVXpsQkZaYXVSeWRlSVg4bExWdEFFPRIkNTBkOTIwYTYtYjA4My00YWYyLTlhMDAtZGQzNDk3MTdiMTBjGAAgACgAMNPx5L+bLzio9eO/my9AqPXjv5svShw5RHllellzZ2hZZE54dk1hRWxpTGdMdVFtS289WiciJf////8AAAAE200yVGxPYXZqeDFkbXRXY3dxRzNjRGdZbGg2WT1lAAAAABKkAQgoEp8BChx6MkVxSDlVa2IwUFg4N1BNc3Y1N3o3TzluTjA9EiRiZjc3NDZkNy0zODRmLTQxYTAtODdiZS1hZGIxZWQxNzZhNWQYACAAKAAwATjv+8y67i5A7/vMuu4uShwwSlBVMXNFSncwdWtLcUIzSFc4cldTN29xUFU9WiAiHv//N1VkZ2ViYWs2bGsvUUY3ZEsvZzk3NWlPcXdrPWVqzbFjErABCEASqwEKHFhHZlNGRU5OUmpLTmJESCszc0RRaFZXNVlGdz0SJDk2MDczNmRlLWQ2NGYtNGQ1YS04NTM5LTNmMWJmNGEyYzYyNBgAIAAoADDuxuz9oC84q9fkgJ0vQKvX5ICdL0ocMEFSeC90a0J5V2xob2YzREw1RkFUZ1o1VE1jPVonIiX/////AAAABO1zSkRQU3I4R0ZJeXFJMkdWUnY4aVN2TWd4Mk09ZVPqaK8SsAEIQxKrAQocbWdTcFRHWkJxamY1T2lwZi92cHR3YVpmWFlVPRIkNTFlMjU1NDgtMDNlZC00OWRjLWIzMDUtNTQ0Y2E4NzlhNzI4GAAgACgAMIjBssCiLzjHjLHAoi9Ax4yxwKIvShwzd3MwV1ZneHZPRE15T0toTDZRTENjZlF2YVk9WiciJf////8AAAAE/WFKUUJFdFJSQWZRS0w4NXZuMHRVclkzMEozND1loLvc7RKwAQhSEqsBChxwbGh1S0FlUmhhTE1pQitIay8vNmJXblJLYm89EiRkZGMzZjY1Zi0wYWNjLTQzNTAtOTdkZC1jNjllODIyMjlhNjcYACAAKAAwgL/m4qQvOO2o5uKkL0DtqObipC9KHHVjYnJTd1FQajFMeGlQNUFJZjErWk0xeXBLcz1aJyIl/////wAAAAbuSnE5U0lnLzNGVG1pL0I4cnhCa25uN1pRMmZNPWVQof9MErABCFwSqwEKHGhMajIzS0JCQkdNWmZTTDhIL1B4em9NMGIyWT0SJDBhYTU5OWNiLWRiNDUtNDI3Yi04NjIyLTIyNGQ2MDg2ZGM0MhgAIAAoADDmpfnxtS84/c/48bUvQP3P+PG1L0ocRUF4VlFBM1Z0T01vNHBNVUlYblJVVGZFb1FFPVonIiX/////AAAAB/tpc1hXTEx4cUlCanY4cis0WDFxRGJTTDVmOEE9ZeCYn14SsAEIRBKrAQocaWVKWHNya3c2bkxsb2JNeWFzZm5rMEMvS2hFPRIkMjA3ZjdkNmUtN2EyNS00NjgxLTg2MzUtODM1OTUzOWVhMWQyGAAgACgAMNzBhcuiLzihyoHLoi9AocqBy6IvShxURU9LbXpURitYeDlQY1JBWno2TmxSUHhtQXc9WiciJf////8AAAAE/kwzcWhlT0Y2RWtMTDJsWmJZRDM4TytKMVMzbz1l2zxyIhKwAQhIEqsBChxCM2pscUU2Zmx2K21NdENRd3lmeWl5OEdGZlE9EiRjYWQwNDUzYi00ODlmLTQ4YzItYjcyYS1lYmQ2ZTEyNjIxNjUYACAAKAAwyLfL0aMvONrUytGjL0Da1MrRoy9KHGUrOTZQNi94OVdjaEIzSmN5ays4eGFTZXluMD1aJyIl/////wAAAAWsRW11dlBOZ0hyZnd0ZjBldHI5Y3NFdzRXWkJBPWU2UEkzEqUBCDESoAEKHHFVSktGazJWMnQwMnpWVXQxY1V3TXR6Q0tpcz0SJGYyNWUxYjcxLWI4M2QtNGQ3MC1hNTZkLTQxMWJjY2RiN2NjNRgAIAAoADABONuHg+nvLkDbh4Pp7y5KHDh5Mm1pMFVmWmV1WUtQTStFamhnVDdoRXNHcz1aISIf///9YVdpVitSQllNNnNEZmVlWEFxaXhrQlZsazBrPWUAAAAAErABCFoSqwEKHGJSUjZNQkdYTGVTajFsZURZUHFUaDEwM0ZvYz0SJDczYmVjZGFkLWI0MzctNGY2ZS1hMGI1LTlmOWYwMzdmODk5YxgAIAAoADCB9uPNsS84hdrjzbEvQIXa482xL0ocSnRWRzF4dGh6WmlFc3BlT0F2OXdRY3ZCUjJRPVonIiX/////AAAAB95zajR5aE9iWDlObklHdkNkOGJtOERLNkhxNVE9ZTCkDfgSsAEIShKrAQocSmFpS0NVU3FJZjNHNGpOUGxYaCtLdGxvZFFVPRIkZDNjZGRmNTgtNTE3Ni00NjVmLWE2ZWQtY2I5OTc1MDRiZTg4GAAgACgAMJfQltKjLzj3+pXSoy9A9/qV0qMvShw4cFo3VUtmZGFoTndhcDRKVnJTOWxiYTdaTTQ9WiciJf////8AAAAF60tRSWRJMlcxSGxLT0lPVHdMYWRONXRHbklnVT1ldsedYBKkAQghEp8BChxmblJPRE1oSDc2aFZaVGk5Q3RmbThjVWc5aDg9EiQwMjNhZWUzOC05MGRmLTRjZjQtODcxOS1iMjVjN2VkY2JmYWYYACAAKAAwATjFjLCv6S5AxYywr+kuShxoWHZxaW5JS1E2SE1aY0Z6c2RMTFBSRWpPQk09WiAiHv+wMXhwQzFFbTJ3YW5paFM2a2dhMWI1SmFMV1pVPWUw91baErABCEwSqwEKHFg5cmZhcjFrT0hOOFVabTgyOFlGU1hqVHdGYz0SJGE5NjU5ZDA5LTNkZjctNDFkYS04MjgwLWIxNDNjMjYwZGViNxgAIAAoADCxn9bSoy84pPDV0qMvQKTw1dKjL0ocZ2FOaThVdlpyMzlKYjVlOU9ibWcvSFNzQVhrPVonIiX/////AAAABfp1ZnFBVkRwcnhWdG1aUkZmQkhWQzNRbVlpdEE9ZehtUQISrwEIRRKqAQocTkhOczNSSVhtbUh2aXo5SzNVZUhGZzdMM200PRIkNWVhMTFmN2ItYmFjNi00ZmFmLThhMGEtN2ViNDk2ODI2YzliGAAgACgAMITp7JajLzjTpcn+oi9A06XJ/qIvShw5Z09LUjdNZXZsVFpwYUQxdkZrbkNkMG1jN0E9WiYiJP////8AAAAFR3YyaHNzRkJYN2VtZjRrNDBkcDhYVmtOQVNjPWXJKyc6ErABCE4SqwEKHERvcnV3Z2JKR0JOaVJiaWRiaWRRZjMweHpKdz0SJDFiYzE4ZjM2LTBjMzItNDkzYS05YjA0LWYyNWFiOWFlMTgxZRgAIAAoADDe3dqOpC84m8TajqQvQJvE2o6kL0ocd2dMT2NVVE40ckp3eFoyUmRDTzAyVHRCMGswPVonIiX/////AAAABf5pMHcyMk5UNDdOVXg4WmlVOVBnMVdudFNZYmc9ZQ/MNBQSqgEIPBKlAQocNE8vRkFjMGNjMmxZTjBWMmV4RlZrb2tEWXNnPRIkYWY2ZjZjZGEtZTRkZi00MzAwLTk2OWUtOGViYWNjZmY5NmQ3GAAgACgAMAE4pODpl5QvQKTg6ZeUL0ocR3gySE53SEJqU05Nc1p5T25OQklKYTdXNVJVPVomIiT/////AAAABDgyL3BZeG9tTEIvVWpHV3hsMTUweW9GNllYZz1lYyrGLBKwAQhbEqsBChxLZFJQUzBDTG1kcld2akVtZVhLUUpQZVR3aE09EiQ2ZDFlZDU4OC04YjEzLTRkY2YtOThjZi1mNjJkZDhhYzg4NTgYACAAKAAw6fXrq7IvON7d66uyL0De3eursi9KHCtRR2VrMzNtbksvL2NlV2Y0K2M3S1hzR3o1RT1aJyIl/////wAAAAf3WDJZcllxNjJKcWVWN3FqK2Z2UjNkNVd4SGdBPWUAAAAAErABCFMSqwEKHGNQME9RbEp2bCs4MGNERGJUT3BCS2JvWDhmWT0SJDg5MWE1YmQzLTk5OWQtNGMxMy1hYWE2LThjNDk2MjI0NzNiZBgAIAAoADCtmbPjpC84xPSy46QvQMT0suOkL0ocNWVMUFYvbnZtWFN5UlBHY3ZVSzh6REY3MXl3PVonIiX/////AAAABvc0SEVzcGk5T2ZDaUNTZmdpdFJ0M1RuelNHOXc9Zex0KwASsAEISxKrAQoca1huN0V2SkMvK3VVYmp2SGMzaWZqeTdDVEljPRIkMDE5MGM0MDctNzE1Zi00ZDAyLWFkNDYtNjY4ZjNkNTY0ODY1GAAgACgAMOXJwtKjLzjx9sHSoy9A8fbB0qMvShxjbnhMMm9lQVYyREpQMS9lZkw3YWU1eDBzckk9WiciJf////8AAAAF9XBRK0ZIVUxORTYxS3NwUzY4TVJJQ1VtUjZ0Zz1l6G1RAhKkAQgqEp8BChx4amFSQytoMzM2U0FWanlqT2FHY0xrMEgvdVU9EiQ4MDVkNjU4MS0zYWE1LTQ5ZmYtYWVmNy01MWEwMDM3NjI2MjMYACAAKAAwATjKvN7U7i5Ayrze1O4uShxQWm9rRnJnRE5NU2VMVG1EWmFEempSVEkrYlU9WiAiHv//Y3lTTEk2Z0VpczB0ek8yeUJaZnREVUVYclFZPWU4e2AZEq8BCFcSqgEKHDdDRXNzRmtQL3BxYXpHNDFyNFgvcGJoSFp5dz0SJDM3ZWZjZjRmLTc3YmEtNDc1My1iNmU0LTY3ZTIzZTQ2YmQ5NBgAIAAoADCmqc/ytC84+9fxoK4vQPvX8aCuL0ocZ1pOMExodU13K3ZvR2QzaS8yR3o4TklJWHVrPVomIiT/////AAAAB083WklERTJ0dGh1NEtNVmozMWxudkpHcXVSbz1lMKQN+BKvAQhhEqoBChxadERhSXdhOEwxY3BYc1V6bTJkTStFMDJGWnc9EiQwYzM5NTg0Ni00MjVhLTRiZDUtOGJlOS04NmZiMDk0MTgwMDUYACACKAIwwaXSw78vONnil72/L0DD7NHDvy9KHHYvY3FwT0JnOUFBZktzYlhhK0cvWWxzM3dOQT1aJiIk/////wAAAAhiZURjbldjS0MrRjVoNDJIMkc1aDNrYmJNSHM9ZQgMSi4SrwEIWBKqAQocV3V4K0ZiU0xnWFY0RHdFTjgvZ29WNE5LZjlJPRIkOGY0MDBiNWItYTI5NC00MjZhLThlMTYtOWFlNTMzN2YzYTUwGAAgACgAMOfQ6KiwLzjljOiosC9A5YzoqLAvShwvTm55WW41VjZvblgxRHg1Q3lPZVNzSjBDcjg9WiYiJP////8AAAAHeUVTcVg3ZmlnTm9wT0xIRFdJam01bS80K0s4PWUAAAAAErABCEcSqwEKHC9SL0RkSmtIZndKM25tOEVHd243d0s3MllzTT0SJDBlNTk5MDc2LTRmNGEtNGFhNi1hNGY5LTZkYjUyZDczZGY0YxgAIAAoADCitPfcpC84s4rT8qMvQLOK0/KjL0ocSmF0Z2VEQm1ZQkptQU9EU3lkUStZNGQ0OUtZPVonIiX/////AAAABaNFY2ZsRDNSTGNyWE00VFFkRXBqbnhuV1g2SGc9ZelQAtISsAEIVRKrAQocZ0ZieWdjN2ZRSENCeFJWdGpySmpKaVVUeUFrPRIkYTc5YjlmZTctMmRkMC00NDUzLThlMzYtOTg2MjdhM2FmNjYxGAAgACgAMPSp6ISmLziWkeiEpi9AlpHohKYvShxqaU9BdEFnTGh0ZXJRNExBUzBkNWpYWE5kRVE9WiciJf////8AAAAG/TQxZWpoQTRFQW9GL1ppNDAzUW83bXZUVUt4WT1lySsnOhKwAQhUEqsBChxUTS81Q3l4UllsdmMzbFgwT0ZXVTZrSkU4TUk9EiQ0NzcwZjA5Mi04YjMxLTRmMGItOGU1Yi1lNzBhMDZjZmQxNWIYACAAKAAwwYKd5KQvOPTvnOSkL0D075zkpC9KHGJXM2ZIQzJnWHdCYUZ0NG15VmkwU3pJM3RTTT1aJyIl/////wAAAAb7NFZQRU04K2J6ZHluZ2hhUW5NamJCU1Z2NE9vPWUAAAAAGAEgs9OujMMv",
+   "version": 1
+}

@@ -1,0 +1,77 @@
+/*customization*/
+
+/* Panel */
+
+.xfce4-panel{
+border-radius:4px;
+}
+
+calendar {
+padding: 7px 1.4px;
+}
+
+
+
+#xfce4-power-manager-plugin image {
+	-gtk-icon-transform: rotate(90deg) translateY(-1px);
+}
+
+#pager-4 button {
+	color: #6D5991;
+	font-size: 12px;
+ }
+#pager-4 button:checked {
+	color: #FA695B;
+	font-size:12px}
+
+
+
+
+/*#sn-button {
+    background-color: #75619a;
+border-radius: 15px;
+}*/
+
+
+.thunar .sidebar {
+font-size: 0px;
+padding: 1.1rem;
+background-color:#1E1F29;
+}
+
+
+/*thunar*/
+
+.thunar .sidebar .view{
+padding: 0.2rem;
+background-color:#1E1F29;
+}
+
+.thunar .sidebar .view:selected{
+
+background:transparent;
+border-left:2px solid #75619a;
+}
+
+.thunar .standard-view .view{
+background-color:#1E1F29;}
+
+
+
+.thunar toolbar{
+  margin-top: 0px;
+  padding: 0px;
+  background-color: #1E1F29;}
+
+
+.thunar toolbar.horizontal button image {
+  -gtk-icon-transform:scale(0.72);}
+
+
+VteTerminal,
+TerminalScreen,
+vte-terminal {
+    padding: 24px 24px 24px 24px;
+    -VteTerminal-inner-border: 24px 24px 24px 24px;
+}
+/*extra customization*/

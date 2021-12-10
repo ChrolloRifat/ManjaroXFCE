@@ -1,0 +1,6 @@
+2021/09/21-20:36:19.822 1e2f Creating DB /home/rif/.config/vivaldi/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb since it was missing.
+2021/09/21-20:36:19.971 1e2f Reusing MANIFEST /home/rif/.config/vivaldi/Default/IndexedDB/https_youtube.googleapis.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/21-22:05:02.621 7217 Level-0 table #5: started
+2021/09/21-22:05:02.677 7217 Level-0 table #5: 35164 bytes OK
+2021/09/21-22:05:02.728 7217 Delete type=0 #3
+2021/09/21-22:05:02.736 7217 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

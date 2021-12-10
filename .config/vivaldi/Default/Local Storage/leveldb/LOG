@@ -1,0 +1,30 @@
+2021/10/24-19:11:56.283 5 Reusing MANIFEST /home/rif/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2021/10/24-19:11:56.285 5 Recovering log #52
+2021/10/24-19:11:56.285 5 Reusing old log /home/rif/.config/vivaldi/Default/Local Storage/leveldb/000052.log 
+2021/10/24-19:15:27.149 5 Level-0 table #56: started
+2021/10/24-19:15:27.184 5 Level-0 table #56: 20820 bytes OK
+2021/10/24-19:15:27.217 5 Delete type=0 #52
+2021/10/24-19:20:27.147 d Level-0 table #58: started
+2021/10/24-19:20:27.707 d Level-0 table #58: 21462 bytes OK
+2021/10/24-19:20:27.738 d Delete type=0 #55
+2021/10/24-19:22:27.148 10 Level-0 table #60: started
+2021/10/24-19:22:27.189 10 Level-0 table #60: 14812 bytes OK
+2021/10/24-19:22:27.222 10 Delete type=0 #57
+2021/10/24-19:26:27.147 10 Level-0 table #62: started
+2021/10/24-19:26:27.257 10 Level-0 table #62: 16150 bytes OK
+2021/10/24-19:26:27.297 10 Delete type=0 #59
+2021/10/24-19:26:27.298 10 Compacting 4@0 + 1@1 files
+2021/10/24-19:26:27.548 10 Generated table #63@0: 275 keys, 497088 bytes
+2021/10/24-19:26:27.548 10 Compacted 4@0 + 1@1 files => 497088 bytes
+2021/10/24-19:26:27.584 10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/24-19:26:27.586 10 Delete type=2 #53
+2021/10/24-19:26:27.587 10 Delete type=2 #58
+2021/10/24-19:26:27.587 10 Delete type=2 #60
+2021/10/24-19:26:27.587 10 Delete type=2 #62
+2021/10/24-19:26:27.587 10 Delete type=2 #56
+2021/10/24-19:51:03.884 1f Level-0 table #65: started
+2021/10/24-19:51:03.927 1f Level-0 table #65: 23157 bytes OK
+2021/10/24-19:51:03.964 1f Delete type=0 #61
+2021/10/24-19:54:31.065 1f Level-0 table #67: started
+2021/10/24-19:54:31.131 1f Level-0 table #67: 30437 bytes OK
+2021/10/24-19:54:31.171 1f Delete type=0 #64
