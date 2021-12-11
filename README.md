@@ -15,6 +15,7 @@ Necessary Softwares and Dependencies:
 <li>discord       </li>
 <li>dunst       </li>
 <li>fish shell       </li>
+<li>	ZSH shell </li>
 <li>gcolor3       </li>
 <li>geany       </li>
 <li>kitty       </li>
@@ -27,4 +28,5 @@ Necessary Softwares and Dependencies:
 <li>obs       </li>
 <li>neofetch       </li>
 <li> transmission      </li>
+
 </ul>
